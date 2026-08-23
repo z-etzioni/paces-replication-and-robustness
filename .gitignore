@@ -1,0 +1,14 @@
+# RStudio project state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~

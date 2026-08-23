@@ -1,0 +1,85 @@
+variable,outcome,specification,estimate,uncertainty,uncertainty_type,n
+USNGSCH,Using any scholarship in survey year,bogota_loser_mean,0.05693950177935946,0.2319334219080307,SD,562
+USNGSCH,Using any scholarship in survey year,bogota_no_controls,0.5088724640326083,0.022704484300151144,Robust SE,1147
+USNGSCH,Using any scholarship in survey year,bogota_basic,0.5041599567931951,0.022445449025261473,Robust SE,1147
+USNGSCH,Using any scholarship in survey year,bogota_barrio,0.5051177813241349,0.022440341929997727,Robust SE,1147
+USNGSCH,Using any scholarship in survey year,combined_basic,0.5198128653432214,0.01875990184315643,Robust SE,1577
+USNGSCH,Using any scholarship in survey year,combined_barrio,0.5214147718996254,0.018722104404579464,Robust SE,1577
+USESCH,Ever used a scholarship,bogota_loser_mean,0.2437722419928826,0.42973938719146965,SD,562
+USESCH,Ever used a scholarship,bogota_no_controls,0.6724670742464399,0.02142913710859882,Robust SE,1147
+USESCH,Ever used a scholarship,bogota_basic,0.6634884356133671,0.02179141563362295,Robust SE,1147
+USESCH,Ever used a scholarship,bogota_barrio,0.6624102791510988,0.021727526451687306,Robust SE,1147
+USESCH,Ever used a scholarship,combined_basic,0.6360532893072229,0.019105330268642026,Robust SE,1577
+USESCH,Ever used a scholarship,combined_barrio,0.6352317577378237,0.01906280342457833,Robust SE,1577
+PRSCHA_1,Started 6th grade in private school,bogota_loser_mean,0.8772241992882562,0.3284720467162427,SD,562
+PRSCHA_1,Started 6th grade in private school,bogota_no_controls,0.06294674088268434,0.016964476512008275,Robust SE,1147
+PRSCHA_1,Started 6th grade in private school,bogota_basic,0.05743072223730516,0.016978092223732748,Robust SE,1147
+PRSCHA_1,Started 6th grade in private school,bogota_barrio,0.058145015981441735,0.01672308121697201,Robust SE,1147
+PRSCHA_1,Started 6th grade in private school,combined_basic,0.0660571690422336,0.015831494643509997,Robust SE,1577
+PRSCHA_1,Started 6th grade in private school,combined_barrio,0.06732558330784694,0.015659129385711127,Robust SE,1577
+PRSCHA_2,Started 7th grade in private school,bogota_loser_mean,0.6725978647686833,0.4696834127694153,SD,562
+PRSCHA_2,Started 7th grade in private school,bogota_no_controls,0.173555981385164,0.02478625356399064,Robust SE,1147
+PRSCHA_2,Started 7th grade in private school,bogota_basic,0.16814875280452854,0.024606439351907382,Robust SE,1147
+PRSCHA_2,Started 7th grade in private school,bogota_barrio,0.1706925781665826,0.024161387516563427,Robust SE,1147
+PRSCHA_2,Started 7th grade in private school,combined_basic,0.17027270377565887,0.021355918026521748,Robust SE,1577
+PRSCHA_2,Started 7th grade in private school,combined_barrio,0.17270007860369843,0.021084343962130506,Robust SE,1577
+PRSCH_C,Currently in private school,bogota_loser_mean,0.5391459074733097,0.49890930956654905,SD,562
+PRSCH_C,Currently in private school,bogota_no_controls,0.15999939167199057,0.028313789655346255,Robust SE,1147
+PRSCH_C,Currently in private school,bogota_basic,0.15333001006404837,0.027423685345757044,Robust SE,1147
+PRSCH_C,Currently in private school,bogota_barrio,0.1556059273263092,0.027159419199893738,Robust SE,1147
+PRSCH_C,Currently in private school,combined_basic,0.15234202136959507,0.02319407778230762,Robust SE,1577
+PRSCH_C,Currently in private school,combined_barrio,0.1543999321767457,0.023031983474885567,Robust SE,1577
+SCYFNSH,Highest grade completed,bogota_loser_mean,7.48576512455516,0.9649712721855469,SD,562
+SCYFNSH,Highest grade completed,bogota_no_controls,0.16380752501749338,0.0531615969864117,Robust SE,1147
+SCYFNSH,Highest grade completed,bogota_basic,0.1301441825689002,0.050895669041643006,Robust SE,1147
+SCYFNSH,Highest grade completed,bogota_barrio,0.12040813404451349,0.050671444227509424,Robust SE,1147
+SCYFNSH,Highest grade completed,combined_basic,0.0853743600951667,0.04124354924605534,Robust SE,1577
+SCYFNSH,Highest grade completed,combined_barrio,0.07772329936471818,0.04100790519223724,Robust SE,1577
+INSCHL,Currently in school,bogota_loser_mean,0.8309608540925267,0.3751203755430727,SD,562
+INSCHL,Currently in school,bogota_no_controls,0.018611795480123493,0.021642489065924038,Robust SE,1147
+INSCHL,Currently in school,bogota_basic,0.006903514144253642,0.019938575405049782,Robust SE,1147
+INSCHL,Currently in school,bogota_barrio,0.0069857567274788845,0.019679713390860047,Robust SE,1147
+INSCHL,Currently in school,combined_basic,-0.0016397668812951943,0.01625113911992485,Robust SE,1577
+INSCHL,Currently in school,combined_barrio,-0.002095407744232122,0.016053272993532337,Robust SE,1577
+FINISH6,Finished 6th grade,bogota_loser_mean,0.9430604982206405,0.23193342190803073,SD,562
+FINISH6,Finished 6th grade,bogota_no_controls,0.026170271010129646,0.012104774811419748,Robust SE,1147
+FINISH6,Finished 6th grade,bogota_basic,0.022945967851742233,0.011508744159347944,Robust SE,1147
+FINISH6,Finished 6th grade,bogota_barrio,0.021189253976720033,0.01131755035586099,Robust SE,1147
+FINISH6,Finished 6th grade,combined_basic,0.01377914902375785,0.010544488480897549,Robust SE,1577
+FINISH6,Finished 6th grade,combined_barrio,0.012411674533529725,0.010431460834709588,Robust SE,1577
+FINISH7,Finished 7th grade,bogota_loser_mean,0.8469750889679715,0.3603322334338368,SD,562
+FINISH7,Finished 7th grade,bogota_no_controls,0.04020439821151627,0.020042885052044816,Robust SE,1147
+FINISH7,Finished 7th grade,bogota_basic,0.03074834454123467,0.019347159229908064,Robust SE,1147
+FINISH7,Finished 7th grade,bogota_barrio,0.028535645583126785,0.019213184281825623,Robust SE,1147
+FINISH7,Finished 7th grade,combined_basic,0.027096660404101643,0.01752079716737055,Robust SE,1304
+FINISH7,Finished 7th grade,combined_barrio,0.025108071703378348,0.01740717072466171,Robust SE,1304
+FINISH8,Finished 8th grade,bogota_loser_mean,0.6316725978647687,0.48278054520362274,SD,562
+FINISH8,Finished 8th grade,bogota_no_controls,0.1119171457249758,0.027201311293782296,Robust SE,1147
+FINISH8,Finished 8th grade,bogota_basic,0.10020409189988914,0.02679042487990912,Robust SE,1147
+FINISH8,Finished 8th grade,bogota_barrio,0.09448123890644572,0.026766310592101605,Robust SE,1147
+FINISH8,Finished 8th grade,combined_basic,0.08093865283779263,0.024476299063186054,Robust SE,1304
+FINISH8,Finished 8th grade,combined_barrio,0.07652435959206859,0.02441258180974003,Robust SE,1304
+REPT6,Repetitions of 6th grade,bogota_loser_mean,0.19395017793594305,0.45444807096822343,SD,562
+REPT6,Repetitions of 6th grade,bogota_no_controls,-0.06574504973081517,0.02435050100527536,Robust SE,1147
+REPT6,Repetitions of 6th grade,bogota_basic,-0.05936863016149368,0.024044561781809914,Robust SE,1147
+REPT6,Repetitions of 6th grade,bogota_barrio,-0.058877941548279536,0.024210594935014502,Robust SE,1147
+REPT6,Repetitions of 6th grade,combined_basic,-0.04937184413591835,0.019456894149032938,Robust SE,1577
+REPT6,Repetitions of 6th grade,combined_barrio,-0.04940686897726802,0.019490802655395465,Robust SE,1577
+REPT,Ever repeated after the lottery,bogota_loser_mean,0.22419928825622776,0.41742545457155456,SD,562
+REPT,Ever repeated after the lottery,bogota_no_controls,-0.06009672415366433,0.023323264274283707,Robust SE,1147
+REPT,Ever repeated after the lottery,bogota_basic,-0.05476031842035717,0.023066788099044798,Robust SE,1147
+REPT,Ever repeated after the lottery,bogota_barrio,-0.050918729018408306,0.0231947818168938,Robust SE,1147
+REPT,Ever repeated after the lottery,combined_basic,-0.054751443185926965,0.018844309980503238,Robust SE,1577
+REPT,Ever repeated after the lottery,combined_barrio,-0.05308084582230411,0.01888622049648642,Robust SE,1577
+NREPT,Total repetitions since the lottery,bogota_loser_mean,0.2544483985765126,0.5077191649445342,SD,562
+NREPT,Total repetitions since the lottery,bogota_no_controls,-0.07325181737993063,0.027852547634320605,Robust SE,1147
+NREPT,Total repetitions since the lottery,bogota_basic,-0.06667541929924008,0.027236918235561857,Robust SE,1147
+NREPT,Total repetitions since the lottery,bogota_barrio,-0.06359159900820849,0.02743639356625654,Robust SE,1147
+NREPT,Total repetitions since the lottery,combined_basic,-0.05798660919761506,0.021827902921697694,Robust SE,1577
+NREPT,Total repetitions since the lottery,combined_barrio,-0.056776155855835696,0.021856054370495002,Robust SE,1577
+TOTSCYRS,Years in school since the lottery,bogota_loser_mean,3.6530249110320283,0.950972724305478,SD,562
+TOTSCYRS,Years in school since the lottery,bogota_no_controls,0.05808620007908451,0.05246202041418042,Robust SE,1147
+TOTSCYRS,Years in school since the lottery,bogota_basic,0.03365958777828869,0.05032625229800284,Robust SE,1147
+TOTSCYRS,Years in school since the lottery,bogota_barrio,0.030767103680732873,0.05011418447496399,Robust SE,1147
+TOTSCYRS,Years in school since the lottery,combined_basic,0.014771513992968758,0.04357390405807069,Robust SE,1577
+TOTSCYRS,Years in school since the lottery,combined_barrio,0.011805865412718226,0.04339352822209686,Robust SE,1577

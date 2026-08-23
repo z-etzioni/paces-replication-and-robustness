@@ -1,0 +1,7 @@
+Dependent variable,Loser mean (SD),Bogota 1995 OLS,Bogota 1995 2SLS,Combined OLS,Combined 2SLS
+Highest grade completed,7.486 (0.965),0.167 (0.054),0.196 (0.077),0.141 (0.043),0.134 (0.065)
+In school,0.831 (0.375),0.022 (0.021),0.010 (0.030),0.033 (0.017),-0.003 (0.026)
+Total repetitions since lottery,0.254 (0.508),-0.077 (0.029),-0.100 (0.041),-0.069 (0.023),-0.091 (0.034)
+Finished eighth grade,0.632 (0.483),0.114 (0.028),0.151 (0.040),0.108 (0.026),0.127 (0.038)
+Test scores (total points),-0.099 (1.039),0.379 (0.110),0.291 (0.152),—,—
+Married or living with companion,0.016 (0.126),-0.009 (0.006),-0.013 (0.009),-0.010 (0.006),-0.014 (0.009)
