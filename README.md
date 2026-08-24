@@ -92,7 +92,7 @@ The `stats` package is also used but is included with base R.
 
 1. Download or clone this repository.
 2. Open `paces-replication-and-robustness.Rproj`.
-3. Run the master script by typing this into the console and running the line.
+3. Run the following command in the R console:
 
 ```r
 source("00_run_all.R")
