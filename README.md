@@ -62,6 +62,7 @@ For example, the estimated effect on finishing eighth grade changes from 0.081 i
 
 The repository includes the four original data files required to reproduce the analysis:
 
+```text
 data/raw/aerdat4.sas7bdat
 data/raw/tab5v1.sas7bdat
 data/raw/tab7.sas7bdat
