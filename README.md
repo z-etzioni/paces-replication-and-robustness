@@ -106,6 +106,8 @@ The master script:
 - Stops if a validation check or analysis step fails.
 - Saves all results in `output/tables/` and `output/figures/`.
 
+After the script finishes, the reproduced tables and robustness-extension results can be found in `output/tables/`. The extension figures can be found in `output/figures/`.
+
 ## Outputs
 
 ### Replication tables
