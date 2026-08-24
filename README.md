@@ -58,7 +58,7 @@ For example, the estimated effect on finishing eighth grade changes from 0.081 i
 | `output/tables/` | Contains machine-readable and formatted results |
 | `output/figures/` | Contains PNG and PDF versions of the extension figures |
 
-## Data
+## Datas
 
 The repository includes the four original data files required to reproduce the analysis:
 
