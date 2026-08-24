@@ -94,7 +94,9 @@ The `stats` package is also used but is included with base R.
 2. Open `paces-replication-and-robustness.Rproj`.
 3. Run the master script from the project root:
 
+```r
 source("00_run_all.R")
+```
 
 The master script:
 
