@@ -122,6 +122,8 @@ The master script:
 - `table3_bh_coefficient_plot.png`
 - `table3_bh_coefficient_plot.pdf`
 
+![Benjamini–Hochberg-adjusted Table 3 estimates](output/figures/table3_bh_coefficient_plot.png)
+
 ### Attrition extension
 
 - `attrition_response_tests.csv`
@@ -130,6 +132,8 @@ The master script:
 - `attrition_ipw_coefficient_plot.png`
 - `attrition_ipw_coefficient_plot.pdf`
 
+![Unweighted and attrition-adjusted estimates](output/figures/attrition_ipw_coefficient_plot.png)
+
 ## Implementation notes
 
 - The public replication data produce a test-taker male loser mean of 0.452 using `SEX2`, compared with 0.447 in the published Table 2. This project retains `SEX2` because it is also the dependent variable in the authors' treatment-effect regression and is observed for all 124 test-taker lottery losers.
@@ -137,7 +141,7 @@ The master script:
 - Some specifications contain sparse or collinear nuisance controls that trigger a high-leverage warning from `sandwich::vcovHC()`. The master runner selectively muffles this known diagnostic. Validation checks confirm that all reported voucher-effect estimates and standard errors are finite.
 - The inverse-probability-weighted results address attrition related to observed application characteristics. They do not eliminate the possibility of selection on unobserved characteristics.
 
-## Reference
+## References
 
 Angrist, Joshua D., Eric Bettinger, Erik Bloom, Elizabeth M. King, and Michael Kremer. 2002. “Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment.” *American Economic Review* 92 (5): 1535–1558.  
 <https://doi.org/10.1257/000282802762024629>
